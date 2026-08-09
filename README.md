@@ -1,64 +1,77 @@
-# 👋 Hi, I'm Karl Heinz Luckert
-
-### 💻 Backend Developer | Systems Engineering Student
-
-I'm **Karl Heinz Luckert**, a Systems Engineering student and Junior Backend Developer from **Barranquilla, Colombia**.
-
-I'm passionate about **software development, backend engineering, system architecture, and building solutions that solve real-world problems**. I enjoy learning new technologies, working on personal projects, and continuously improving my development skills.
+# Backend Developer | Building APIs | Learning & Building 🚀
 
 ---
 
-## 🚀 What I'm Passionate About
+Software developer passionate about building **robust and scalable APIs** and turning ideas into real-world solutions.
 
-- 🔧 Building reliable and scalable **REST APIs**
-- 🏗️ Designing applications using **Clean Architecture** and software engineering best practices
-- 🧩 Applying **CQRS, SOLID principles, and design patterns**
-- 🗄️ Designing and working with **relational databases**
-- 🤖 Exploring **Artificial Intelligence and automation**
-- 🐳 Using **Docker** to containerize and deploy applications
-- ☁️ Learning and working with **Cloud technologies**
-- 📚 Continuously learning and improving as a developer
+**Backend Developer** | C# • .NET • Python • Node.js | PostgreSQL • Docker • AWS
+
+I'm constantly learning and building projects focused on **backend development, software architecture, databases, cloud technologies, automation, and artificial intelligence**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎯 What Drives Me?
+
+💻 **Backend Focused** — I enjoy designing and building APIs, business logic, and backend systems.
+
+🏗️ **Architecture Mindset** — I care about clean code, separation of responsibilities, and maintainable software.
+
+🚀 **Always Building** — I learn by creating real projects and applying new technologies to solve problems.
+
+🤖 **AI & Automation** — I'm interested in applying artificial intelligence and automation to improve processes and build smarter solutions.
+
+📚 **Continuous Learning** — I'm constantly exploring new technologies, tools, and software engineering practices.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
 
 ### Backend
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Architecture & Development
+---
 
-- Clean Architecture
-- CQRS
-- MediatR
-- Entity Framework Core
-- Dependency Injection
-- SOLID Principles
-- Design Patterns
-- FluentValidation
-- REST API Development
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- SQL
+---
+
+### Architecture & Practices
+
+- Clean Architecture
+- CQRS
+- SOLID Principles
+- Dependency Injection
 - Entity Framework Core
+- MediatR
+- REST API Design
+- JWT Authentication
 
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
 ### DevOps & Cloud
 
@@ -68,9 +81,11 @@ I'm passionate about **software development, backend engineering, system archite
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**AWS Services:** EC2 · RDS · S3 · Lambda · API Gateway
+**AWS:** EC2 • RDS • S3 • Lambda • API Gateway
 
-### Artificial Intelligence
+---
+
+### AI & Automation
 
 - Azure OpenAI
 - LangChain
@@ -80,64 +95,33 @@ I'm passionate about **software development, backend engineering, system archite
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Projects
 
 ### 💰 LuckyExpenses
 
-A REST API for personal expense management, developed as a portfolio project.
+Personal expense management API built with **ASP.NET Core, PostgreSQL, Entity Framework Core, Docker, JWT, Clean Architecture and CQRS**.
 
-**Tech Stack:**
-
-`ASP.NET Core` · `C#` · `PostgreSQL` · `Entity Framework Core` · `Docker` · `JWT` · `Clean Architecture` · `CQRS` · `MediatR`
-
-The project includes:
-
-- User authentication
-- Expense management
-- Categories
-- Payment methods
-- Expense filtering
-- JWT authentication
-- Clean Architecture
-- CQRS with MediatR
+> Building real-world projects to strengthen my backend and software engineering skills.
 
 ---
 
-## 🎯 Currently Learning & Improving
+## 📚 Currently Learning
 
-I'm currently focused on growing as a **Backend Developer**, with a particular interest in:
-
+- Advanced Backend Development
 - Software Architecture
-- API Development
 - Cloud & DevOps
-- Databases
 - Artificial Intelligence
-- Automation
 - System Design
-- Software Engineering Best Practices
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- Database Optimization
+- Automation
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
 ---
 
-> **"Always learning, always building."** 🚀
+> **Always learning. Always building. 🚀**
