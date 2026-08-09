@@ -55,13 +55,7 @@ I'm passionate about **software architecture, backend development, artificial in
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🏗️ Architecture & Development
 
-![.NET](https://img.shields.io/badge/Clean%20Architecture-512BD4?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-4B0082?style=for-the-badge)
-![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge)
-![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 
