@@ -6,8 +6,6 @@ I'm Karl Heinz Luckert, a **Systems Engineering student and Software Developer**
 
 I mainly work with **C#/.NET and Python**, developing backend solutions with technologies such as **ASP.NET Core, Django, FastAPI, Flask, Node.js, and Express.js**.
 
-I also have experience with **frontend development**, working with **React, Angular, JavaScript, and TypeScript**, as well as relational and NoSQL databases, authentication, Docker, Linux, and cloud technologies.
-
 I'm passionate about **software architecture, backend development, artificial intelligence, automation, and continuous learning**. I value clean, maintainable code and solutions that solve real-world problems.
 
 ---
